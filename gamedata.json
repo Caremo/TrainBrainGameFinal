@@ -1,0 +1,54 @@
+{
+  "animals": [
+    {
+      "name": "dog",
+      "image": "dog.jpg"
+    },
+    {
+      "name": "cat",
+      "image": "cat.jpg"
+    },
+    {
+      "name": "cow",
+      "image": "cow.jpg"
+    },
+    {
+      "name": "bird",
+      "image": "bird.jpg"
+    },
+    {
+      "name": "fish",
+      "image": "fish.jpg"
+    },
+    {
+      "name": "mouse",
+      "image": "mouse.jpg"
+    }
+  ],
+  "colors": [
+    {
+      "name": "red",
+      "value": "#FF0000"
+    },
+    {
+      "name": "blue",
+      "value": "#0000FF"
+    },
+    {
+      "name": "green",
+      "value": "#00FF00"
+    },
+    {
+      "name": "yellow",
+      "value": "#FFFF00"
+    },
+    {
+      "name": "magenta",
+      "value": "#FF00FF"
+    },
+    {
+      "name": "cyan",
+      "value": "#00FFFF"
+    }
+  ]
+}
